@@ -1,4 +1,4 @@
-import { v4 as uuid } from "uuid";
+import { v4 as uuid } from "https://jspm.dev/uuid";
 export const products = [
     {
       _id: uuid(),
